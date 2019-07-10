@@ -1,5 +1,5 @@
 **This repository is for our mod code related to Prime Fortress 2 modification, based on Nicknine's tf_port.
-Our goal is to provide what we think how Team Fortress 2 should be.
+Our goal is to provide what we think how Team Fortress 2 should be.**
 
 Team Fortress 2
 =====
